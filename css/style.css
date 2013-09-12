@@ -518,7 +518,7 @@ ul#output li a:hover {
 #arrow {
 	position: absolute;
 	top: -21px;
-	background: url('../images/header thumbs/arrow.png') top center no-repeat;
+	background: url('../images/mainpage/icons/arrow.png') top center no-repeat;
 	width: 90px;
 	height: 15px;
 	display: none;
